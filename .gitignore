@@ -1,0 +1,10 @@
+## CONFIG .gitignore
+
+# Diretórios local
+.note*
+.terraform*
+#actions-runner*
+
+# Arquivos local
+terraform.tfstate*
+.terraform.lock.hcl
