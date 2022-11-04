@@ -7,7 +7,7 @@ Data: 2022-11-03
 
 # Provisionar uma instância EC2 (_Elastic Cloud Computer_) na AWS com o Terraform
 
-![Image]()
+![Image](https://github.com/glaubergf/terraform-libvirt-debian-syspass/blob/main/pictures/tf_syspass_server_ec2.png)
 
 ## Amazon Elastic Compute Cloud [**(EC2)**](https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/concepts.html)
 
